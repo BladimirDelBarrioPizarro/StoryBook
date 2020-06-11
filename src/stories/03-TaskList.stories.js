@@ -1,5 +1,4 @@
 import React from 'react';
-import {Provider} from 'react-redux'
 import {PureTaskList} from '../TaskList/TaskList';
 import { taskData, actionsData } from './02-Task.stories';
 
